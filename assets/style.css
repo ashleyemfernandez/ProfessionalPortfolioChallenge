@@ -74,6 +74,20 @@ footer {
   width: 100%;
 }
 
+.photoofme {
+length: 300px;
+width: 160px;
+
+}
+
+.refactorchallenge {
+
+}
+
+.portfoliochallenge {
+
+}
+
 @media screen and (max-width: 768px) {
   main,
   nav {
