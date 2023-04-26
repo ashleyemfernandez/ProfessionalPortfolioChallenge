@@ -77,7 +77,6 @@ footer {
 .photoofme {
 length: 300px;
 width: 160px;
-
 }
 
 .refactorchallenge {
@@ -86,6 +85,11 @@ width: 160px;
 
 .portfoliochallenge {
 
+}
+
+img:hover {
+  width: 50%;
+  length: 50%;
 }
 
 @media screen and (max-width: 768px) {
