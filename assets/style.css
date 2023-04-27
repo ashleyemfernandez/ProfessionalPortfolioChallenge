@@ -83,9 +83,6 @@ width: 160px;
 
 }
 
-.portfoliochallenge {
-
-}
 
 img:hover {
   width: 50%;
@@ -99,7 +96,7 @@ img:hover {
   }
 }
 
-img {
+ img {
   width: 500px;
   length: 300px;
 }
